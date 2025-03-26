@@ -1,12 +1,12 @@
-#define trigPin 11
-#define echoPin 12
+#define trigPin 7
+#define echoPin 8
 
-#define in1 7
+#define in1 5
 #define in2 6
-#define in3 5
-#define in4 4
-#define enA 9
-#define enB 10
+#define in3 9
+#define in4 10
+#define enA 3
+#define enB 4
 
 // Motor speed (0-255)
 int motorSpeed = 150;
